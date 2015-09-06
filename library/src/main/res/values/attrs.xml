@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ChatImageView">
+        <attr name="chat_image_mask" format="reference"/>
+    </declare-styleable>
+</resources>
